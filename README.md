@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabillah Alimuddin</h1>
-<h3 align="center">Full Stack Developer in Progress 🚀 | System Thinker | Problem Solver</h3>
+<h3 align="center">Full Stack Web Developer in Progress 🚀 | System Thinker | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer+in+Progress;Backend+Enthusiast;SQL+%26+PHP+Developer;Docker+Learner;Building+Scalable+Systems" />
@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-- 💻 Full Stack Developer in progress with strong backend foundation
+- 💻 Full Stack Web Developer in progress with strong backend foundation
 - 🗄️ Comfortable working with relational databases & SQL
 - 🐘 Backend development using PHP & Node.js
 - 🐳 Exploring containerization with Docker
